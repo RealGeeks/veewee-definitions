@@ -1,5 +1,7 @@
 #Realgeeks Veewee Definitions
 
+![veewee](http://t3.gstatic.com/images?q=tbn:ANd9GcTfU9W0aI1zGP_LAhCyLMknhgpfkPOFoKc2ia1VUJzWOtsx0-erTw_Jt9BkNg)
+
 To build the RG basebox:
 
 1. Install Ruby, RVM, and Virtualbox
